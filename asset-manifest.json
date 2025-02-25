@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hugging_Chef/static/css/main.e8f9660d.css",
+    "main.js": "/Hugging_Chef/static/js/main.97b4f909.js",
+    "index.html": "/Hugging_Chef/index.html",
+    "main.e8f9660d.css.map": "/Hugging_Chef/static/css/main.e8f9660d.css.map",
+    "main.97b4f909.js.map": "/Hugging_Chef/static/js/main.97b4f909.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8f9660d.css",
+    "static/js/main.97b4f909.js"
+  ]
+}
