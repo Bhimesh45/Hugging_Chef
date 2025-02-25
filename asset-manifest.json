@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Hugging_Chef/static/css/main.e8f9660d.css",
-    "main.js": "/Hugging_Chef/static/js/main.97b4f909.js",
+    "main.js": "/Hugging_Chef/static/js/main.98be3436.js",
+    "static/media/chef-claude-icon.png": "/Hugging_Chef/static/media/chef-claude-icon.340e1555799ac9dfa824.png",
     "index.html": "/Hugging_Chef/index.html",
     "main.e8f9660d.css.map": "/Hugging_Chef/static/css/main.e8f9660d.css.map",
-    "main.97b4f909.js.map": "/Hugging_Chef/static/js/main.97b4f909.js.map"
+    "main.98be3436.js.map": "/Hugging_Chef/static/js/main.98be3436.js.map"
   },
   "entrypoints": [
     "static/css/main.e8f9660d.css",
-    "static/js/main.97b4f909.js"
+    "static/js/main.98be3436.js"
   ]
 }
