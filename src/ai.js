@@ -9,6 +9,7 @@ const MODEL_NAME = "mistralai/Mixtral-8x7B-Instruct-v0.1";
 
 // Retrieve API key from environment variables
 const API_KEY = process.env.REACT_APP_HF_ACCESS_TOKEN;
+console.log(API_KEY)
 
 
 if (!API_KEY) {
